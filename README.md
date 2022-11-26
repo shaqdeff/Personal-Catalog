@@ -82,7 +82,7 @@ In order to run this project you need:
 ### Setup
 Clone this repository to your desired folder:
 ```sh
-  git clone git@github.com:PraisesPJMT/Personal-Catalog.git
+  git clone https://github.com/shaqdeff/Personal-Catalog.git
   cd Personal-Catalog
 ```
 ### Install
